@@ -1,6 +1,6 @@
 {
     "version": 123445566,
-    "host": "https://github.com/keqi24/chuck_server/blob/master/images/",
+    "base_url": "https://github.com/keqi24/chuck_server/blob/master/images/",
     "images": [
                {
                "id": "fruit_1",
